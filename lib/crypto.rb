@@ -2,7 +2,6 @@
 
 require 'nokogiri'
 require 'open-uri'
-require 'json'
 require_relative 'result_to_json'
 
 COIN_MARKET_CAP_URL = 'https://coinmarketcap.com/all/views/all/'

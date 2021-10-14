@@ -2,7 +2,6 @@
 
 require 'nokogiri'
 require 'open-uri'
-require 'json'
 require_relative 'result_to_json'
 
 def get_townhall_mail(townhall_url)
